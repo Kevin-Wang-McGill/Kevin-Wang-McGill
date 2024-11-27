@@ -44,5 +44,4 @@
 <a href="https://www.instagram.com/kevinwang4679/" target="_blank">
     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" alt="Instagram" width="40" />
 </a>
-
 ![Profile views](https://komarev.com/ghpvc/?username=Kevin-Wang-McGill&label=Profile%20views&color=0e75b6&style=flat)
