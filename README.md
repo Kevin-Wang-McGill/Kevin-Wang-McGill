@@ -36,3 +36,12 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
     </a>
 </p>
+### Connect with me:
+    <a href="www.linkedin.com/in/kevin-wang-mcgill" target="_blank">
+        <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+    </a>
+    <a href="https://www.instagram.com/kevinwang4679/" target="_blank">
+        <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" alt="Instagram" width="40" height="40"/>
+    </a>
+</p>
+![Profile views](https://komarev.com/ghpvc/?username=Kevin-Wang-McGill&label=Profile%20views&color=0e75b6&style=flat)
