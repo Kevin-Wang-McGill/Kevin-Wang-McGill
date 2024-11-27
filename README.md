@@ -38,6 +38,7 @@
 </p>
 
 ### Connect with me:
+
     <a href="www.linkedin.com/in/kevin-wang-mcgill" target="_blank">
         <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
     </a>
