@@ -39,9 +39,7 @@
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/kevin-wang-mcgill/" target="_blank">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" alt="LinkedIn" width="40" />
-</a>
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" alt="LinkedIn" width="40" /></a>
 <a href="https://www.instagram.com/kevinwang4679/" target="_blank">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" alt="Instagram" width="40" />
-</a>
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" alt="Instagram" width="40" /></a>
 
