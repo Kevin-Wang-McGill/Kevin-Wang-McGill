@@ -1,6 +1,6 @@
 ## Hi there! I'm Kevin 👋
 
-- 👨‍💻 A passionate Data Engineer with a curiosity for unraveling the stories behind data.  
+- 👨‍💻 A passionate Data Scientist with a curiosity for unraveling the stories behind data.  
 - 🔍 Excited about leveraging Python, SQL, and machine learning to solve real-world problems and make data-driven decisions.  
 - 🌍 Always exploring: from network science research to industry applications in finance and ride-hailing platforms.  
 - 🎓 I’m currently pursuing my [Master of Management in Analytics](https://www.mcgill.ca/) at McGill University.  
